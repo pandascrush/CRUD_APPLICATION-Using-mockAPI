@@ -1,0 +1,1 @@
+export const API_URL ="https://646a078e03bb12ac2098235f.mockapi.io/crud/";
